@@ -1,19 +1,15 @@
-- 👋 Hi, I’m @JanetAnalyst
-  
-- 👀 I’m interested in Technology and Coding.
-  
-- 🌱 I’m currently learning Power BI & SQL.
-  
-- 👯‍♂️ Open to collaborations and networking.
-  
-- 📫 How to reach me: msjanetadeoye@gmail.com
-  
-- 😄 Pronouns: She/Her
+### Hi there 👋, my name is Janet
+#### Data Analyst
+![Data Analyst](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F9233542-data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-vector-illustration-concept&psig=AOvVaw2SXgjRmJKk60vmiviensMw&ust=1710532443039000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC0g4fE9IQDFQAAAAAdAAAAABAE)
 
-- ⚡ Fun fact:
-  🌍 I enjoy traveling and exploring new cultures.
-  🌮 Eating!
+Based in London, data analyst looking for the next opportunity. I leverage data to drive business decisions and solve real-world problems.
 
-Happy coding! 👨‍💻
+Skills: Excel / Power BI / DAX / Power Query / Google Analytics / Data Cleaning / Entrepreneur
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanetAnalyst&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+🌍 I enjoy traveling and exploring new cultures.
+🌮 Eating!
+🏋🏾‍♀️ Working out.
+
+- 🔭 I’m currently working on this page.
+
+  Happy Coding! 👩🏿‍💻 
